@@ -21,7 +21,7 @@ Our prime source of information about the displayed show details come from <b><i
 
 <b><i>JustWatch</i></b> provides api about the details of the online platforms that the movies and tv shows are streamed, bought and rented
 
-Thanks to both The Movie Database(TMDB) and JustWatch <3
+Thanks to both The Movie Database(TMDB) and JustWatch <b style=\"color: #f45;\">&lt;3</b>
 
 ## Screenshots
 
