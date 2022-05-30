@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "The Show"
 layout: page
 ---
 
