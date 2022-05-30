@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "privacy_policy.md", title: "Privacy Policy"}
 
-#external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:ssendhurmuthu@gmail.com"}
 #  - {title: Github, icon: github, url: "https://github.com/sendhur-muthu"}
 
