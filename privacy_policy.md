@@ -23,17 +23,24 @@ Wardrobe.ai ("we," "us," or "our") is committed to protecting your privacy. This
     <li>Store images securely in Firebase.</li>
   </ul>
 
-The details mentioned above are collected solely for authentication purposes and are stored securely in the <i>Firebase service provided by Google.</i>
+  <h2>3. Third-Party Services</h2>
+  <p>We use third-party services to enhance your experience:</p>
+  <ul>
+    <li>astica.org: To obtain descriptions of your uploaded images.</li>
+    <li>Firebase: For secure image storage and data management.</li>
+  </ul>
 
-These details will be used for registering and logging in purposes.
-
-We never share these credentials outside the app with any third parties.
-
-Users can delete his/her account and all the details collected by the app any time they want with the option available in the app.
-
-Steps to delete the user account:
-<ol>
-  <li>Login to the account that you wish to delete.</li>
-  <li>Navigate to the profile page, use the delete button, and confirm.</li>
-  <li>Re-authorize using the password for account deletion.</li>
-</ol>
+  <h2>4. Data Retention</h2>
+  <p>We retain your personal data only for as long as necessary to fulfill the purposes for which it was collected, or as required by law.</p>
+  
+  <h2>5. User Options for Data Deletion</h2>
+  <p>You can request the deletion of your data by emailing us at emailid@gmail.com. We will respond to your request within a reasonable timeframe.</p>
+  
+  <h2>6. Data Security</h2>
+  <p>We take reasonable steps to protect your personal data from unauthorized access, disclosure, or loss. However, no data transmission or storage can be guaranteed to be completely secure.</p>
+  
+  <h2>7. Changes to This Privacy Policy</h2>
+  <p>We may update this Privacy Policy from time to time. Any changes will be posted here with an updated effective date.</p>
+  
+  <h2>8. Contact Us</h2>
+  <p>If you have questions about this Privacy Policy or your personal data, please contact us at ssendhurmuthu@gmail.com</p>
