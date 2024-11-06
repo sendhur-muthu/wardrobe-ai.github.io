@@ -1,9 +1,11 @@
 ---
-title: "Privacy Policy"
+title: "Privacy Policy for Wardrobe.ai"
 layout: page
 ---
 
 <b><i>The Show</i></b> is committed to protecting the privacy of every user of the app.
+<b>Effective Date:</b> [06-11-2024]
+Wardrobe.ai ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our app.
 
 We collect the below details from The Show app's users
 <ul>
