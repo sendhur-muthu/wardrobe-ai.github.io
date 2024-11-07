@@ -17,7 +17,7 @@ show_social: false
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home"}
+  #- {file: "index.md", title: "Home"}
   - {file: "privacy_policy.md", title: "Privacy Policy"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
