@@ -34,7 +34,7 @@ Wardrobe.ai ("we," "us," or "our") is committed to protecting your privacy. This
   <p>We retain your personal data only for as long as necessary to fulfill the purposes for which it was collected, or as required by law.</p>
   
   <h2>5. User Options for Data Deletion</h2>
-  <p>You can request the deletion of your data by emailing us at emailid@gmail.com. We will respond to your request within a reasonable timeframe.</p>
+  <p>You can request the deletion of your data by emailing us at info.wardrobe.ai@gmail.com. We will respond to your request within a reasonable timeframe.</p>
   
   <h2>6. Data Security</h2>
   <p>We take reasonable steps to protect your personal data from unauthorized access, disclosure, or loss. However, no data transmission or storage can be guaranteed to be completely secure.</p>
@@ -43,4 +43,4 @@ Wardrobe.ai ("we," "us," or "our") is committed to protecting your privacy. This
   <p>We may update this Privacy Policy from time to time. Any changes will be posted here with an updated effective date.</p>
   
   <h2>8. Contact Us</h2>
-  <p>If you have questions about this Privacy Policy or your personal data, please contact us at ssendhurmuthu@gmail.com</p>
+  <p>If you have questions about this Privacy Policy or your personal data, please contact us at info.wardrobe.ai@gmail.com</p>
